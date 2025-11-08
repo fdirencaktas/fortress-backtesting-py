@@ -16,7 +16,7 @@ A professional, modular Python backtesting system for rule-based strategies usin
 `Python`, `pandas`, `matplotlib`, `yfinance`, `pandas_ta`, `Backtesting.py`
 
 ## 🖼️ Sample Result
-![Equity Curves]()
+![Equity Curves](results/equity_curves)
 
 ## 🚀 Run the Project
 ```bash
