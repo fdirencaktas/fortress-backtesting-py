@@ -16,8 +16,11 @@ A professional, modular Python backtesting system for rule-based strategies usin
 `Python`, `pandas`, `matplotlib`, `yfinance`, `pandas_ta`, `Backtesting.py`
 
 ## 🖼️ Sample Result
+Equity Curves:
 ![Equity Curves](results/equity_curves.png)
+EMACrossover_becktesting.py_Graph:
 ![EMACrossover_becktesting.py_Graph](results/EMACrossover.png)
+PriceCrossover_becktesting.py_Graph:
 ![PriceCrossover_becktesting.py_Graph](results/PriceCrossover.png)
 
 ## 🚀 Run the Project
