@@ -26,4 +26,4 @@ PriceCrossover_Backtesting.py_Graph:
 ## 🚀 Run the Project
 ```bash
 pip install -r requirements.txt
-python src/backtest_ema.py
+python src/backtester.py
